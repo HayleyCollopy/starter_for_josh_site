@@ -74,9 +74,6 @@
   </div>
 </nav>
           
-          <div>
-              <h1>Games Design For the Future</h1>
-          </div>
       
 </header>
       
