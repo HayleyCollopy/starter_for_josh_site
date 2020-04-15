@@ -24,7 +24,7 @@ wp_reset_query();?>
     </section>
 
           
-          <div class="blocker"></div>
+         
               
               
               
