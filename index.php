@@ -23,12 +23,6 @@ wp_reset_query();?>
       </div><!--  container-->
     </section>
 
-          
-         
-              
-              
-              
-      
       
       
       <section class="container-fluid articlebg">
