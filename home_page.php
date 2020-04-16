@@ -45,10 +45,10 @@ Template Name: Home Page
                   
               <div class="col-md-4 article-cent">
 <!--placeholder for col3-->
-                  <img class="img-responsive" alt=“model” src="<?php the_field('articleimagemodel'); ?>">
-   <h4><?php the_field('articletitlemodel'); ?></h4>
-                    <p><?php the_field('articleexcerptmodel'); ?> </p>
-                   <a href="<?php the_field('readmoremodel'); ?>" class="readmore">CONTINUE READING</a>
+                  <img class="img-responsive" alt=“racetrack” src="<?php the_field('articleimageracetrack'); ?>">
+   <h4><?php the_field('articletitleracetrack'); ?></h4>
+                    <p><?php the_field('articleexcerptracetrack'); ?> </p>
+                   <a href="<?php the_field('readmoreracetrack'); ?>" class="readmore">CONTINUE READING</a>
                   </div>
               
               </div>
