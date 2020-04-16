@@ -36,7 +36,11 @@ Template Name: Home Page
                   </div>
               
                <div class="col-md-4 article-cent">
-<!--placeholder for col2-->    
+<!--placeholder for col2--> 
+                   <img class="img-responsive" alt=“model” src="<?php the_field('articleimage'); ?>">
+   <h4><?php the_field('articletitle'); ?></h4>
+                    <p><?php the_field('articleexcerpt'); ?> </p>
+                   <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>
                   </div>
                   
               <div class="col-md-4 article-cent">
