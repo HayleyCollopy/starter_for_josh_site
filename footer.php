@@ -9,7 +9,7 @@
                   <div class="col-md-6 text-center footer-content">
                   <p>Terms and Conditions</p>
                       <img src="images/wifi.jpg" alt="facebook">
-                      <img src="images/facebook.jpg" alt="facebook">
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/200px-F_icon.svg.png" alt="facebook">
                   </div>
               
               
@@ -24,6 +24,4 @@
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <!--<script src="js/bootstrap.min.js"></script>-->
-  </body>
-</html>
 <?php wp_footer(); ?>
