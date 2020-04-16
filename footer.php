@@ -9,7 +9,7 @@
                   <div class="col-md-6 text-center footer-content">
                   <p>Terms and Conditions</p>
                       <img src="images/wifi.jpg" alt="facebook">
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/200px-F_icon.svg.png" alt="facebook">
+                      <img src="https://flic.kr/p/2iQTkpz" alt="facebook">
                   </div>
               
               
