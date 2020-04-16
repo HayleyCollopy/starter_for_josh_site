@@ -3,12 +3,12 @@
               <div class="row">
               <div class="col-md-6 text-center footer-content">
                   <p>JOSH WHITKIN</p>
-                  <img src="images/linkedin.jpg" alt="facebook">
-                  <img src="images/twitter.jpg" alt="facebook">
+                  <img src="http://206.189.45.97/~mesh4/wp-content/themes/starter_for_josh_site/images/linkedin.jpg" alt="linkedin">
+                  <img src="http://206.189.45.97/~mesh4/wp-content/themes/starter_for_josh_site/images/twitter.jpg" alt="twitter">
                   </div>
                   <div class="col-md-6 text-center footer-content">
                   <p>Terms and Conditions</p>
-                      <img src="images/wifi.jpg" alt="facebook">
+                      <img src="http://206.189.45.97/~mesh4/wp-content/themes/starter_for_josh_site/images/wifi.jpg" alt="wifi">
                       <img src="http://206.189.45.97/~mesh4/wp-content/themes/starter_for_josh_site/images/facebook.jpg" alt="facebook">
                   </div>
               
