@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    
   <head>
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +30,7 @@
 </title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+<!--    <link href="css/bootstrap.min.css" rel="stylesheet">-->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -40,8 +41,10 @@
       
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,800&display=swap" rel="stylesheet">
       
+<!--
     <link rel="stylesheet" href="style.css" />
       <link rel="stylesheet" href="responsive.css"/>
+-->
       
 <?php wp_head(); ?>
       
@@ -78,7 +81,8 @@
   </div>
 </nav>
           
-          <div>
+          <div class="container animated fadeInRight">
+              
             <h1><?php the_field('maintagline'); ?></h1>
           </div>
       
