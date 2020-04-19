@@ -40,8 +40,10 @@
       
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,800&display=swap" rel="stylesheet">
       
+<!--
     <link rel="stylesheet" href="style.css" />
       <link rel="stylesheet" href="responsive.css"/>
+-->
       
 <?php wp_head(); ?>
       
